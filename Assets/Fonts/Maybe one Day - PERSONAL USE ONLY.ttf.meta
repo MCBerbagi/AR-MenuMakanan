@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: eeabb558ce7641340a5a8253a8d600bf
+timeCreated: 1554140213
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Maybe one Day DEMO
+  fontNames:
+  - Maybe one Day DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
